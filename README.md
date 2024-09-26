@@ -1,1 +1,1 @@
-# Springboot-grapgql
+# Springboot-graphql
